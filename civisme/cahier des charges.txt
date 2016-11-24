@@ -1,0 +1,29 @@
+lostandfound
+
+creer un site internet permettant de déclarer une perte d'objet ou la découverte d'un objet.
+la rémunération du site se fait par donation bénévole lorsqu'un objet est restitué à son propriétaire grâce au site.
+
+cahier des charges
+==================
+
+une personne qui perd ou trouve un objet accède au site
+2 choix:
+- j'ai trouvé un(des) objet(s)
+- j'ai perdu un(des) objet(s)
+
+ensuite l'utilisateur indique
+- la date et l'heure de la perte ou de la découverte.
+- le lieu aussi précis que possible
+- la description de l'objet
+
+On demande ensuite de saisir ue adresse mail pour être mis en rapport
+
+Après chaque déclaration reçue, on interroge la base données pour voir si une correspodance peut être faite.
+Dans un cas positif un mail est envoyé à la personne qui a perdu l'objet en décrivant exactement la teneur de la perte et en indiquant si elle le souhaite un numéro de téléphone.
+
+Un mail est alors envoyé au découvreur avec les indications précises et l'adresse mail de la persone qui a perdu les objets.
+Si les indications correspondent il peut alors evoyer un mail à l'autre personne.
+
+Régulièrement un mail est envoyé aux 2 personnes pour savoir si l'objet a été restitué.
+
+A tout moment des personnes peuvent faire des donations(C'est là dessus qu'on peut gagner de l'argent).
